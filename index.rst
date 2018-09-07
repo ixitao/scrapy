@@ -1,15 +1,15 @@
 .. _topics-index:
 
 ==============================
-Scrapy |version| documentation
+Scrapy |version| 中文文档
 ==============================
 
-This documentation contains everything you need to know about Scrapy.
+本文涵盖了所有你想了解的Scrapy知识。
 
-Getting help
+获取帮助
 ============
 
-Having trouble? We'd like to help!
+可以尝试以下途径来解决你遇到的问题
 
 * Try the :doc:`FAQ <faq>` -- it's got answers to some common questions.
 * Looking for specific information? Try the :ref:`genindex` or :ref:`modindex`.
@@ -26,11 +26,11 @@ Having trouble? We'd like to help!
 .. _issue tracker: https://github.com/scrapy/scrapy/issues
 
 
-First steps
+开始
 ===========
 
 .. toctree::
-   :caption: First steps
+   :caption: 开始
    :hidden:
 
    intro/overview
@@ -234,23 +234,3 @@ Extending Scrapy
 :doc:`topics/exporters`
     Quickly export your scraped items to a file (XML, CSV, etc).
 
-
-All the rest
-============
-
-.. toctree::
-   :caption: All the rest
-   :hidden:
-
-   news
-   contributing
-   versioning
-
-:doc:`news`
-    See what has changed in recent Scrapy versions.
-
-:doc:`contributing`
-    Learn how to contribute to the Scrapy project.
-
-:doc:`versioning`
-    Understand Scrapy versioning and API stability.

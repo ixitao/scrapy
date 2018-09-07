@@ -1,12 +1,10 @@
 .. _intro-overview:
 
 ==================
-Scrapy at a glance
+Scrapy 概览
 ==================
 
-Scrapy is an application framework for crawling web sites and extracting
-structured data which can be used for a wide range of useful applications, like
-data mining, information processing or historical archival.
+Scrapy是一个用于爬行web站点和提取结构化数据的应用程序框架，可用于各种有用的应用程序，如数据挖掘、信息处理或历史档案。
 
 Even though Scrapy was originally designed for `web scraping`_, it can also be
 used to extract data using APIs (such as `Amazon Associates Web Services`_) or

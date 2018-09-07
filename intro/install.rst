@@ -1,13 +1,13 @@
 .. _intro-install:
 
 ==================
-Installation guide
+安装指南
 ==================
 
-Installing Scrapy
+安装 Scrapy
 =================
 
-Scrapy runs on Python 2.7 and Python 3.4 or above
+Scrapy 运行在 Python 2.7 和 Python 3.4 或更高版本
 under CPython (default Python implementation) and PyPy (starting with PyPy 5.9).
 
 If you're using `Anaconda`_ or `Miniconda`_, you can install the package from
