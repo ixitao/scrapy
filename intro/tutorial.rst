@@ -1,11 +1,15 @@
 .. _intro-tutorial:
 
 ===============
-Scrapy Tutorial
+Scrapy 教程
 ===============
 
 In this tutorial, we'll assume that Scrapy is already installed on your system.
 If that's not the case, see :ref:`intro-install`.
+
+本篇教程中，我们假设你的系统已经安装了Scrapy。
+如果没有安装，请参照 :ref:`intro-install`.
+
 
 We are going to scrape `quotes.toscrape.com <http://quotes.toscrape.com/>`_, a website
 that lists quotes from famous authors.
